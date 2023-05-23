@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aryavijay/typescript-express-sequelize"
+    "url": "https://github.com/aryavijay/typescript-sequelize-migration"
   },
   "author": "Vijay Kumar <vijayarya326@gmail.com",
   "license": "ISC",

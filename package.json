@@ -1,6 +1,6 @@
 {
-  "name": "typescript-sequelize-migration",
-  "version": "1.1.0",
+  "name": "ts-mig",
+  "version": "1.0.1",
   "description": "Sequelize migration genarator for typescript",
   "main": "main.js",
   "scripts": {
@@ -20,8 +20,9 @@
   },
   "keywords": [
     "typescript sequelize migration",
-    "typescript migratoin",
+    "typescript migration",
     "ts migration",
     "sequelize-cli ts",
-    "sequelize-cli typescript"]
+    "sequelize-cli typescript"
+  ]
 }

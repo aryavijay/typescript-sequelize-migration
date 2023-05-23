@@ -1,0 +1,27 @@
+{
+  "name": "typescript-sequelize-migration",
+  "version": "1.1.0",
+  "description": "Sequelize migration genarator for typescript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ts-mig": "main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aryavijay/typescript-express-sequelize"
+  },
+  "author": "Vijay Kumar <vijayarya326@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  },
+  "keywords": [
+    "typescript sequelize migration",
+    "typescript migratoin",
+    "ts migration",
+    "sequelize-cli ts",
+    "sequelize-cli typescript"]
+}
